@@ -7,7 +7,9 @@ In this game, you will have 4 tries to guess a number between 1 and 20. Each tim
 ##Version history
 ####v-1.2:
   -Added difficuty levels
+  
   -Added version history to README
 ####v-1.1
   -Added source files
-  -Play description in README
+  
+  -Created play description in README
